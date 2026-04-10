@@ -1,0 +1,10 @@
+{
+  "python_version": "3.12",
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "default": "./agent/studio.py:graph"
+  },
+  "env": ".env"
+}

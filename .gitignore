@@ -1,0 +1,40 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pyre/
+.hypothesis/
+.coverage
+.coverage.*
+htmlcov/
+
+# Build artifacts
+build/
+dist/
+site/
+wheels/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+
+# Tooling and local editor state
+.python-version
+.idea/
+.vscode/
+.langgraph_api/
+
+# Logs and local databases
+*.log
+*.sqlite3

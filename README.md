@@ -2,7 +2,9 @@
 
 This project runs a **local Qwen agent** through a vLLM OpenAI-compatible endpoint and sends **traces only** to LangSmith.
 
-# Bottstraped by Copilot Gpt-4 high reasoning for a plan with Opus 4.6 for followup fixes to apply Langsmith Docs for The Basic Agent Loop with one Tool
+## Bottstraped by Copilot Gpt-5.4 high reasoning for a plan with
+## Opus 4.6 for followup fixes to apply 
+## Langsmith Docs for The Basic Agent Loop with one Tool
 
 ## 1. Install dependencies
 

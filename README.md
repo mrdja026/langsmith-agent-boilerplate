@@ -2,9 +2,17 @@
 
 This project runs a **local Qwen agent** through a vLLM OpenAI-compatible endpoint and sends **traces only** to LangSmith.
 
-## Bottstraped by Copilot Gpt-5.4 high reasoning for a plan with
-## Opus 4.6 for followup fixes to apply 
-## Langsmith Docs for The Basic Agent Loop with one Tool
+## How it was built
+Documentation links feed into context
+Bootstraped with Copilot Cli using ChatGpt 5.4 for plan mode, to create a plan for Agent for multurn conversation.
+Executed the plan with GPT5.4
+Documentation links feed into context
+3 follow up fixes with Opus 4.6
+
+```bash
+gpt-5.4                  3.0m in, 32.1k out, 2.7m cached (Est. 5 Premium requests)
+claude-opus-4.6          2.6m in, 23.7k out, 2.2m cached (Est. 15 Premium requests)
+```
 
 ## 1. Install dependencies
 
